@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.genruntimeconfig.cache
